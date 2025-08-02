@@ -1,2 +1,2 @@
 # demo
-Learning basics of github
+Learning github
