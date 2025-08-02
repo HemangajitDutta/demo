@@ -1,4 +1,4 @@
 # demo
 Learning github.
 <br>
-Author-Hemangajit Dutta
+Author-Hemangajit Dutta (Mac)
