@@ -1,3 +1,3 @@
 # demo
-Learning github
+Learning github.
 Author-Hemangajit Dutta
